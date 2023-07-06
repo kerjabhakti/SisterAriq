@@ -1,8 +1,8 @@
-#Studi Kasus: Menyapa Pengguna dengan Flask
+# Studi Kasus: Menyapa Pengguna dengan Flask
 
 Ini adalah contoh sederhana menggunakan Flask untuk membuat API yang menyapa pengguna berdasarkan nama yang diberikan.
 
-##Langkah-langkah
+## Langkah-langkah
 
 1. Pastikan Anda telah menginstal Flask dengan menjalankan perintah pip install flask.
 
