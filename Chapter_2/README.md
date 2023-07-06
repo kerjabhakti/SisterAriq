@@ -64,4 +64,4 @@ Aplikasi ini menggunakan framework Flask untuk membuat route /tasks yang akan me
 - app.run() menjalankan server web untuk melayani permintaan HTTP.
 
 <br />
-Template tasks.html melalui daftar tasks dan menampilkan setiap elemen dalam elemen ```ruby<li>``` dalam elemen ```ruby<ul>```.
+Template tasks.html melalui daftar tasks dan menampilkan setiap elemen dalam elemen ```ruby <li>``` dalam elemen ```ruby <ul>```.
